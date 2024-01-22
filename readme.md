@@ -13,3 +13,5 @@ Projeto que faz parte do Bootcamp Potência Tech iFood - Desenvolvimento de jogo
 
 -HTML
 
+[Clique Aqui Para Jogar!](https://yancamarsura.github.io/Projeto-YuGiOh/)
+
